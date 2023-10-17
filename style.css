@@ -9,14 +9,16 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: darkred;
+    background-color: azure;
 }
 
 .wrapper{
     position: relative;
     width: 600px;
     height: 400px;
-    background: #fff;
+    background: rgb(223, 214, 214);
+    border: 5px solid darkred;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
